@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+For running this app:
+1. Clone the repo to a locale directory.
+2. Open cmd from root directory.
+3. yarn install
+4. yarn start
+5. On browser: http://localhost:3000/
+
 ## Available Scripts
 
 In the project directory, you can run:
