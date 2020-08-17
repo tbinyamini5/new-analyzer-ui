@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 For running this app:
 1. Clone the repo to a locale directory.
 2. Open cmd from root directory.
