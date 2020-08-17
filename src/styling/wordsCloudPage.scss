@@ -1,0 +1,20 @@
+#date-picker-range {
+    margin: auto;
+    padding: 10px;
+    width: 250px;
+    border: 1px solid;
+    align-content: center;
+
+    .date-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+
+        span {
+            margin-right: 5px;
+            margin-left: 10px;
+        }
+    }
+
+    
+}
